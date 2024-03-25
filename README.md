@@ -1,1 +1,2 @@
-# order-summary-component
+# Order Summary Component
+## Frontend Mentor Challenge
